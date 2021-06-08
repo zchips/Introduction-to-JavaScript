@@ -17,6 +17,8 @@ Do the following:
 
    HINT: no function required
 */
+var votingAge = 17;
+console.log(votingAge > 18)
 
 
 
@@ -30,6 +32,12 @@ Do the following:
 
    HINT: no function required
 */
+let firvar = 67;
+let secvar = 69;
+if (secvar === 69);{
+   firvar = 682021;
+  console.log(firstvariable())
+}
 
 
 
@@ -45,7 +53,11 @@ Do the following:
 
    HINT: look up the Number method
 */
-
+let zc = "1999";{
+zc = Number(zc)
+console.log(zc)
+console.log(typeof(zc))
+}
 
 
 
